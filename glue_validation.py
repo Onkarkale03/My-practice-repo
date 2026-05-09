@@ -1,6 +1,6 @@
 from pyspark.sql.functions import *
 
-df = df.dropDuplicates()
+df = df.dropDuplicates(["customer_id"])
 
 df = df.filter(col("customer_id").isNotNull())
 
