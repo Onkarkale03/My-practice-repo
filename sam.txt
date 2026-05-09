@@ -1,0 +1,6 @@
+id,name,city,technology
+1,Pratik,Pune,AWS
+2,Rahul,Mumbai,Python
+3,Amit,Bangalore,Snowflake
+4,Neha,Delhi,PySpark
+5,Priya,Hyderabad,GitHub Actions
